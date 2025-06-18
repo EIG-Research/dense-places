@@ -1,4 +1,7 @@
 # Dense Places Can Still Build
+This respository includes the data and necessary code to support EIG's analysis of new housing construction in areas with high population density. You can find the article [here](INSERT LINK).
+
+All links are current at the time of publication. Contact Jess Remington with any questions at jess@eig.org .
 
 ## Variables and Data Sources
 
