@@ -1,0 +1,176 @@
+COUNTY_NAME,STATE_NAME,CITY,total_growth,total_pop14,new_housing_per_res,City - High Density,City - Mid-Density,Suburb - High Density,Suburb - Mid-Density,Exurb - Low Density,Rural/Undeveloped
+Williamson County,Texas,Austin suburb,113648,453629,251,0,0,0.1,17.3,38.7,43.9
+Collin County,Texas,Plano,142596,780275,183,0,0.1,1.4,18.8,47.2,32.5
+Montgomery County,Texas,Houston suburb,87289,487010,179,0,0,0.1,4.9,60.3,34.7
+Denton County,Texas,Dallas/Ft Worth suburb,122770,691152,178,0,0.3,1.1,18.1,33.7,46.8
+Travis County,Texas,Austin,158309,1076921,147,0.5,1.6,5.2,35,40.9,16.9
+Fort Bend County,Texas,Houston suburb,91570,630555,145,0,0,0.4,10.6,58.6,30.4
+Ada County,Idaho,Boise,54647,402871,136,0,0,1.1,33.8,44.2,20.9
+Lee County,Florida,Fort Myers,86805,644125,135,0,0,0,20,58.8,21.2
+Pasco County,Florida,Tampa suburb,62466,472745,132,0,0,0,6.6,78.2,15.2
+Polk County,Florida,Orlando/Tampa exurb,78661,609050,129,0,0,0,13.8,61.6,24.6
+Wake County,North Carolina,Raleigh,120952,942523,128,0,0,0.9,28,64.4,6.7
+Utah County,Utah,Provo,65984,522328,126,0.4,0.9,4.3,21.6,53.9,19
+Davidson County,Tennessee,Nashville,75456,641865,118,0,0,1.4,56.2,38.8,3.6
+Mecklenburg County,North Carolina,Charlotte,111848,962949,116,0.3,0,1.6,39.1,57.2,1.7
+District of Columbia,District of Columbia,"Washington, DC",70417,624786,113,45.7,20.9,16.1,12.9,4.4,0
+Greenville County,South Carolina,Greenville,50362,464185,108,0,0,0,18.6,71,10.3
+Denver County,Colorado,Denver,63223,635393,100,5.9,20.3,27.5,35.8,6.9,3.6
+Bexar County,Texas,San Antonio,168485,1767643,95,0.3,0.2,1.8,32.8,45.4,19.5
+Orange County,Florida,Orlando,106876,1178122,91,0,2,4.6,26,44.7,22.7
+Dane County,Wisconsin,Madison,43440,499058,87,6.1,4.8,2.6,24.4,40.8,21.4
+Clark County,Washington,Las Vegas,37510,438274,86,0,1.3,7.2,44,36.1,11.4
+Fulton County,Georgia,NA,81045,946299,86,5.6,7.1,14.9,39.9,31.6,0.9
+Washoe County,Nevada,NA,34891,420195,83,0.2,5.2,4.5,33,39.6,17.6
+El Paso County,Colorado,NA,52249,634801,82,0,0.1,5.4,26.4,47.4,20.7
+Volusia County,Florida,NA,39614,492993,80,0,0,0,14.6,53.8,31.6
+Brevard County,Florida,NA,43260,548884,79,0,0,0.2,26.5,48.8,24.4
+Duval County,Florida,NA,68581,873037,79,0,1.2,-0.5,32.2,44,23.1
+Hillsborough County,Florida,Tampa,98635,1267747,78,-0.4,0.2,6.3,31.3,56,6.7
+Polk County,Iowa,Orlando/Tampa exurb,34029,445137,76,0,0,0.1,27.2,51.6,21.2
+Adams County,Colorado,NA,34495,461499,75,0.6,0.8,5.9,25.4,46,21.2
+Hudson County,New Jersey,NA,47693,654862,73,54.6,11.6,16.2,14,3.6,0
+Maricopa County,Arizona,Phoenix,281288,3871293,73,0.1,1.9,4.8,33.7,41.1,18.5
+Salt Lake County,Utah,NA,75322,1025872,73,0,3.2,13.5,50.9,21.2,11.1
+King County,Washington,Seattle,143530,2002671,72,25,17.6,12.3,29.3,12.6,3.3
+Clark County,Nevada,Las Vegas,137070,1971065,70,-0.1,5,8.5,40.5,30.5,15.6
+Tarrant County,Texas,Fort Worth,132200,1875426,70,0,0.9,1.5,39.6,45.8,12.1
+Harris County,Texas,Houston,288114,4245775,68,0.2,2.7,9.8,42.5,38.8,6.1
+Hidalgo County,Texas,NA,48293,737878,65,0,0.1,1.1,32.7,59.1,7
+Spokane County,Washington,NA,30115,476312,63,0,0,2.3,27,51.5,19.2
+Multnomah County,Oregon,NA,46421,755652,61,13.5,25.2,21.2,34.2,6.1,-0.2
+Knox County,Tennessee,NA,25715,434667,59,0.4,0,3.4,28.7,57.9,9.6
+Johnson County,Kansas,NA,32723,560024,58,0,0,0,39.5,44.1,16.3
+Douglas County,Nebraska,NA,29803,528532,56,0,1.1,7,36.4,43.9,11.5
+Gwinnett County,Georgia,NA,47147,835699,56,0,0.1,-0.5,30.2,70.2,0
+Suffolk County,Massachusetts,NA,40357,725974,56,53.5,21,7.8,16.3,1.3,0
+Dallas County,Texas,Dallas,133955,2428457,55,1.9,12,11.6,37.7,28.7,8.1
+El Paso County,Texas,NA,42993,783988,55,0,0.4,5.6,23.3,52.2,18.5
+Hennepin County,Minnesota,NA,65573,1182421,55,8.8,9.5,7.2,41.3,25.5,7.7
+Dakota County,Minnesota,NA,21385,405517,53,0,0,1.9,44.8,45.7,7.6
+Franklin County,Ohio,NA,62993,1188770,53,0.8,2.8,8.2,44.8,40.2,3.2
+Snohomish County,Washington,NA,38774,729590,53,0,2.2,6.9,46.7,32.6,11.7
+Washington County,Oregon,NA,28288,531465,53,0.1,10.8,12.4,27.4,43.9,5.4
+Seminole County,Florida,NA,21668,432135,50,0,0,0.2,45.1,48.1,6.5
+Arapahoe County,Colorado,NA,29086,595524,49,0,2.7,17.6,28.2,34.1,17.5
+Jefferson County,Colorado,NA,26098,540999,48,0,3.5,2.8,49.1,33.3,11.2
+Miami-Dade County,Florida,Miami,123083,2573328,48,18.3,15.7,16.6,26.9,16.9,5.6
+Oklahoma County,Oklahoma,NA,35308,743150,48,0,0.8,0.9,30.6,51.2,16.6
+Pierce County,Washington,NA,38688,798551,48,0,3.9,3,38,39.4,15.7
+Guilford County,North Carolina,NA,22282,489173,46,0,0,0,13.6,64.7,21.7
+Pima County,Arizona,NA,42521,931703,46,0,0.9,1.3,19.3,50.9,27.5
+Sedgwick County,Kansas,NA,23091,501476,46,0,0,0,28.2,38.7,33.1
+Palm Beach County,Florida,NA,60216,1350772,45,0.4,2.7,10,41.2,32.3,13.4
+Anne Arundel County,Maryland,NA,22835,540728,42,0,0.3,2.8,33.9,58.7,4.3
+Prince William County,Virginia,NA,18031,428770,42,0.2,0,2.7,41.2,44.7,11.2
+San Joaquin County,California,NA,28965,683741,42,0,1.3,8.9,19.1,15.5,55.2
+Chester County,Pennsylvania,NA,20503,503194,41,0,4,2,17.9,66,10.1
+Kings County,New York,Brooklyn,96934,2391271,41,89.8,4.7,0.3,3.3,2,0
+New York County,New York,NA,64417,1602741,40,91.5,6,2.6,0,0,-0.1
+Tulsa County,Oklahoma,NA,24445,612777,40,0,0,-0.1,25.6,57.9,16.5
+East Baton Rouge Parish,Louisiana,NA,16932,439144,39,0,0,2.4,31.1,55.2,11.4
+Kent County,Michigan,NA,24166,615384,39,0,0.8,7.8,26.2,46.5,18.6
+Riverside County,California,NA,82001,2149364,38,-0.5,1.6,4.5,29.2,49.2,16
+Cobb County,Georgia,NA,25876,706106,37,0,2,3.2,53.4,41.4,0
+Jackson County,Missouri,NA,25279,678166,37,0,0.2,10.4,27.9,52.1,9.4
+DeKalb County,Georgia,NA,25342,700103,36,0,1,7.9,73.3,17.8,0
+Jefferson County,Kentucky,NA,26752,744518,36,0,0.6,-0.3,35.2,62.8,1.7
+Prince George's County,Maryland,NA,31415,866305,36,0.5,4.6,7.4,42.9,34.6,10
+Philadelphia County,Pennsylvania,NA,53699,1540373,35,60.4,29,4.8,4.9,1,0
+Montgomery County,Maryland,Houston suburb,34465,1002084,34,13.1,12.6,14.8,40.5,11.7,7.3
+Bronx County,New York,NA,44313,1359083,33,94.1,4.1,0.8,0,1,0
+Broward County,Florida,NA,60686,1812231,33,4.2,12.7,32.2,37.4,13.6,0
+Plymouth County,Massachusetts,NA,16347,498318,33,0.1,0.6,1.9,8.9,79.8,8.6
+Ramsey County,Minnesota,NA,17167,521264,33,2.2,3.9,9.3,69.1,15.5,0
+San Francisco County,California,NA,27026,828947,33,63.7,4.5,14.3,13.7,3.5,0.3
+Hillsborough County,New Hampshire,Tampa,12786,402809,32,0.4,4.2,5.7,18.2,47.9,23.6
+Sacramento County,California,NA,45325,1435715,32,0,4.6,9.1,43.7,28.2,14.4
+Tulare County,California,NA,13007,402617,32,0,0,7.9,44.5,38.3,9.2
+Kane County,Illinois,NA,15461,492921,31,0,-0.4,0.2,22.3,42.7,35.2
+Santa Clara County,California,NA,55632,1798138,31,7.9,25.8,24.5,17.3,20.6,3.9
+Honolulu County,Hawaii,NA,25448,841467,30,23.4,14.9,4.6,36.7,9,11.5
+New Castle County,Delaware,NA,16147,529613,30,0.2,1.1,-0.2,23.4,60.7,14.8
+Norfolk County,Massachusetts,NA,20260,682886,30,-1.6,6.8,8.9,38.4,47.5,0
+Fresno County,California,NA,26836,910687,29,0,1.1,7.4,35.8,33,22.6
+Kern County,California,NA,23088,792801,29,0,1.8,5.3,30.7,27.6,34.6
+York County,Pennsylvania,NA,12604,438018,29,1.5,2.2,3.2,16.8,57.2,19.1
+Lancaster County,Pennsylvania,NA,14697,526840,28,1.2,3.7,0.3,18.8,59.5,16.5
+Middlesex County,Massachusetts,NA,43376,1528241,28,6.9,18.6,6.9,30.1,36.3,1.3
+San Diego County,California,NA,84695,3078714,28,11,13.9,14.9,26.2,28.2,5.7
+Solano County,California,NA,11512,413776,28,0,0.7,5.9,11.3,54.7,27.4
+Alameda County,California,NA,41270,1550317,27,13.7,18.6,20.3,12.1,30.4,4.9
+Baltimore city,Maryland,NA,16734,612982,27,15.2,34.9,35,9.9,5,0
+Fairfax County,Virginia,NA,29820,1109407,27,2.6,9.8,26.7,30.1,29.7,1.2
+Mobile County,Alabama,NA,10904,405855,27,0,0,0.7,17.3,42.4,39.6
+Orange County,California,Orlando,78345,2924134,27,1.7,15.8,15.5,28.7,28.7,9.5
+Middlesex County,New Jersey,NA,20717,803751,26,9,6.8,15.6,38.3,28.8,1.4
+Montgomery County,Pennsylvania,Houston suburb,21095,804857,26,0.8,0.8,9.6,29.8,57.4,1.5
+Pinellas County,Florida,NA,23812,920419,26,0,-0.1,7.8,79.1,13.1,0.1
+Will County,Illinois,NA,17461,676330,26,0,0,3.3,28.5,54.7,13.5
+Marion County,Indiana,NA,23306,919336,25,0,1.9,6.7,50.4,40.9,0.1
+Queens County,New York,NA,47515,1868102,25,67.3,6.8,1.8,24,-0.1,0.1
+San Bernardino County,California,NA,48944,1925023,25,0.2,3.2,12,38.4,38.6,7.5
+Virginia Beach city,Virginia,NA,10871,437860,25,1.7,3.5,27.4,54.7,7.1,5.7
+Burlington County,New Jersey,NA,10300,442096,23,0,0,1.5,32,63.8,2.8
+Essex County,Massachusetts,NA,17342,754543,23,10.8,12.8,15.9,18.9,38.5,3
+Macomb County,Michigan,NA,19291,849275,23,0,0.2,1.2,58.8,33.9,5.9
+Morris County,New Jersey,NA,11271,497070,23,0,2.5,5.6,28.4,58.5,5
+Oakland County,Michigan,NA,27483,1220783,23,0,0,4,35,49.1,11.9
+Bergen County,New Jersey,NA,19799,915150,22,10.6,22.1,11.5,41.3,14.5,0
+Lake County,Indiana,NA,10889,493140,22,0,-1.3,-1.7,5.7,62.6,34.6
+Sonoma County,California,NA,11006,489333,22,0,1.5,20.2,32.9,38.4,7
+Union County,New Jersey,NA,11923,542440,22,6.3,18.3,28.2,42.3,5,0
+Worcester County,Massachusetts,NA,17550,795008,22,1.3,1.6,4.9,16.6,48,27.6
+Berks County,Pennsylvania,NA,8670,404802,21,6.6,2.6,3.9,18.5,33.4,35.1
+Contra Costa County,California,NA,22310,1079871,21,1.9,1.7,17.1,45.4,27.5,6.3
+Erie County,New York,NA,18766,906321,21,1.7,8.4,4.7,31.3,45.9,8.1
+Monroe County,New York,NA,15099,735423,21,0,-1.6,1.8,31.8,55.7,12.2
+Allegheny County,Pennsylvania,NA,24675,1210397,20,-0.4,5.7,11.8,22.4,53.9,6.6
+Baltimore County,Maryland,NA,16233,809273,20,0.2,4.3,14.6,31.4,41,8.5
+Bernalillo County,New Mexico,NA,13363,666526,20,0,-9.5,7.3,47.1,38.5,16.7
+Bristol County,Massachusetts,NA,10988,545918,20,2.5,8.3,7,20.1,52.6,9.5
+Cook County,Illinois,Chicago,96690,4927485,20,56.2,15,5.4,18,5.3,0.1
+Los Angeles County,California,Los Angeles,191621,9705174,20,34.5,25.3,17.7,17.3,4.3,0.8
+San Mateo County,California,NA,14558,711897,20,11.1,16.4,14.9,35,18.3,4.3
+Santa Barbara County,California,NA,8003,408241,20,-0.3,7,5,60,16.1,12.1
+Essex County,New Jersey,NA,15033,778983,19,20.3,44.5,16.9,11.4,6.9,0
+Jefferson County,Alabama,NA,12765,658080,19,0,0,-3.4,16.2,63.5,23.6
+Ventura County,California,NA,14795,777653,19,1.7,3.2,14.5,37.4,27.9,15.3
+Hamilton County,Ohio,NA,14685,797471,18,0.6,2.2,27.4,35.5,22.1,12.2
+Milwaukee County,Wisconsin,NA,17345,949711,18,8.6,7.2,13.2,37.6,32.9,0.4
+Ocean County,New Jersey,NA,9295,524003,18,-0.2,0.2,0.4,20.9,40.5,38.1
+Providence County,Rhode Island,NA,11012,613446,18,4.1,26.8,19.5,19.1,24.7,5.8
+Shelby County,Tennessee,NA,16464,929538,18,0.1,0,0.1,52.5,41.1,6.2
+Suffolk County,New York,NA,24288,1371144,18,0,0.9,3.8,39.4,42.2,13.8
+Onondaga County,New York,NA,7777,457407,17,0,0.2,-4,25.1,45.7,33
+Bucks County,Pennsylvania,NA,9724,626206,16,0,0,1.7,30.3,60,7.9
+Summit County,Ohio,NA,8723,541468,16,0,-1.6,-7.2,8.7,93.6,6.5
+DuPage County,Illinois,NA,13924,922437,15,0,0.2,11.1,57.6,31.2,0
+Lake County,Illinois,NA,10362,690382,15,0,0.1,0.7,26.4,72.3,0.4
+Monmouth County,New Jersey,NA,7613,629746,12,0.4,3.2,-4.8,28.3,75.6,-2.7
+Montgomery County,Ohio,Houston suburb,6422,523811,12,0,0,-6.6,39,59.8,7.8
+Stanislaus County,California,NA,6397,513917,12,0,2.9,25.2,32.5,35.8,3.6
+Delaware County,Pennsylvania,NA,6194,556796,11,1.8,2.1,9.6,10.1,74.1,2.3
+Passaic County,New Jersey,NA,5487,503441,11,53.5,16.2,11.9,14.2,3.8,0.5
+St. Louis County,Missouri,NA,11167,993514,11,0,-0.1,5.2,56.7,29.5,8.7
+Cuyahoga County,Ohio,NA,12486,1265229,10,0.1,-2.1,-21.3,81.9,36.2,5.2
+Richmond County,New York,NA,4501,468910,10,29.9,43.4,13.1,7.5,5.8,0.4
+Lucas County,Ohio,NA,3839,435118,9,0,-2.3,-18.7,2.9,107.9,10.3
+Jefferson Parish,Louisiana,NA,3418,434213,8,0.1,2,10,39.2,37.3,11.3
+Westchester County,New York,NA,7300,951478,8,11.9,47.4,-6.6,5.7,37.6,4
+Hampden County,Massachusetts,NA,3083,461600,7,0,-1.2,-0.5,49.7,39,13
+Nassau County,New York,NA,9517,1300889,7,-0.8,33.1,21.5,31.9,14.3,0
+Camden County,New Jersey,NA,2761,512628,5,-4.2,-49.2,-17.8,95,79.5,-3.3
+Genesee County,Michigan,NA,-702,418653,-2,0,0,18.2,527.6,-378.3,-67.5
+Wayne County,Michigan,NA,-2968,1782299,-2,4,1.8,114.5,189.6,-197.7,-12.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Kings County,New York,Brooklyn,96934,2391271,41,,,,,,
+New York County,New York,NA,64417,1602741,40,,,,,,
+Bronx County,New York,NA,44313,1359083,33,,,,,,
+Queens County,New York,NA,47515,1868102,25,,,,,,
+Richmond County,New York,NA,4501,468910,10,,,,,,
+,,,,,,,,,,,
+,,,257680,7690107,33.5079863,,,,,,
