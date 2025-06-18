@@ -16,3 +16,8 @@ All links are current at the time of publication. Contact Jess Remington with an
 | Rent burden | ACS [B25070](https://data.census.gov/table/ACSDT1Y2023.B25070?q=B25070:+Gross+Rent+as+a+Percentage+of+Household+Income+in+the+Past+12+Months) (1yr) | 2023 | |
 | Housing cost burden (homeowners with a mortgage) | ACS [B25091](https://data.census.gov/table?q=B25091) (1yr) | 2023 | |
 | Rent to income ratio | ACS [B25071](https://data.census.gov/table/ACSDT1Y2023.B25071?q=B25071) (1yr) | 2023 | |
+
+### Note on HUD USPS Address Data
+HUD's Aggregated United States Postal Service (USPS) Administrative Data on Address Vacancies is a key dataset for my analysis and is used to measure net address growth. This data is collected by USPS postal workers to facilitate mail delivery and provides quarterly counts of addresses serviced by USPS. These addresses are categorized as one of three types: residential, business, and other. An address within these three types can be coded as active, vacant, or no-stat. The address is considered vacant if delivery staff on urban routes have identified that mail has not been collected for 90 days or longer. Some addresses are considered to be "no-stat" (neither occupied nor non-occupied) for many reasons, including (1) being on a rural route that has been vacant for 90 days or longer, (2) the address is for a structure under construction and is not yet occupied, and (3) being identified by a carrier as not likely to be active for some time.
+
+Due to issues with the data available online, the analysis uses the 2020 standardized file received directly from HUD. Contact [Alexander Din](https://www.alexdin.com/) at Alexander.M.Din@hud.gov for questions related to this file.  
