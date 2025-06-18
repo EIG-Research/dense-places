@@ -7,7 +7,7 @@ All links are current at the time of publication. Contact Jess Remington with an
 
 | **Variable** | **Data Source** | **Years** | **Var Names** |
 |--------------|------------------|-----------|----------------|
-| Population - County | PEP (Population Estimates Program) Vintage [estimate 2020s](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html), [estimate 2010s](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html); [Methodology](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2024/methods-statement-v2024.pdf) | 2014, 2024 | POPESTIMATE2024 |
+| Population - County | PEP (Population Estimates Program) Vintage [2024](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html), [2014](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html); | 2014, 2024 | POPESTIMATE2024 |
 | Population - Census Tracts | ACS Population [B01003](https://data.census.gov/table/ACSDT1Y2023.B01003?q=B01003) (5yr) | 2014, 2023 | B01003_001E |
 | Population - Places | ACS Population [B01003](https://data.census.gov/table/ACSDT1Y2023.B01003?q=B01003) (1yr) for 2014; Census Population Estimates [City and Town Population Totals 2024](https://www.census.gov/programs-surveys/popest/data/tables.html) | 2014, 2024 | |
 | Land Area | [Gazetteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html) (National Counties and Census Tracts) | 2024 | ALAND_SQMI |
